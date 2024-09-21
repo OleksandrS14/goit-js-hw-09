@@ -7,8 +7,8 @@
 /* Common styles */
 @import url('./reset.css');
 @import url('./base.css');
-@import url('./container.css');
-@import url('./animations.css');
+@import url('./form.css');
+@import url('./gallery.css');
 
 ul {
   padding: 0;
